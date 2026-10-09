@@ -1,0 +1,17 @@
+SessStartMinET=570
+LastSignalMinET=930
+ForceExitMinET=955
+StreakK=5
+ERWindow=20
+ERMin=0.4
+StopBufATR=0.1
+RRTarget=8.0
+RiskPct=0.6
+MaxDailyLossUSD=1500.0
+MaxTradesDay=2
+MaxSpreadPts=3.0
+MaxConsecLosses=3
+MinStopPts=15.0
+MaxStopPts=250.0
+BlockAnyPos=true
+Magic=260923
